@@ -4,7 +4,11 @@ A Web app which lets the ambulance driver to get information about the traffic s
 
 Landing Page for the Application.
 
+#Desktop View
+
 ![Desktop View](./Screenshots/desktop_view.png)
+
+#Mobile View
 
 ![Mobile View](./Screenshots/mobile_view.png)
 
